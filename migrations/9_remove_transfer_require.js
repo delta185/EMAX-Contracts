@@ -10,4 +10,6 @@ module.exports = async function (deployer) {
 
     //const instance = await upgradeProxy("0x15874d65e649880c2614e7a480cb7c9A55787FF6", EMaxCoin8, { deployer, unsafeAllow: ['delegatecall'] });
     //console.log("Upgraded to instance v8: ", instance.address)
-};
+
+
+    profile Nasa migrarions infinity underlines tissues
